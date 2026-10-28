@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-venta-2-alcobas-bogota.onrender.com/sitemap.xml

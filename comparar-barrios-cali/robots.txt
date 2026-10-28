@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-comparar-barrios-cali.onrender.com/sitemap.xml

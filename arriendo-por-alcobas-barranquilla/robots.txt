@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-arriendo-por-alcobas-barranquilla.onrender.com/sitemap.xml

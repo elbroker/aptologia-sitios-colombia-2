@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-comparar-barrios-armenia.onrender.com/sitemap.xml

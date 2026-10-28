@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-arriendo-3-alcobas-cali.onrender.com/sitemap.xml

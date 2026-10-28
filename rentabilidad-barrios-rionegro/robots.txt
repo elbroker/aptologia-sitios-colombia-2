@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-rentabilidad-barrios-rionegro.onrender.com/sitemap.xml

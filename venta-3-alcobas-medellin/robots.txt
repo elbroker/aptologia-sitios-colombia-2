@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-venta-3-alcobas-medellin.onrender.com/sitemap.xml

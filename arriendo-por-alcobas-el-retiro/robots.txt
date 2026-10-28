@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-arriendo-por-alcobas-el-retiro.onrender.com/sitemap.xml

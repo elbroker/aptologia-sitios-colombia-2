@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-arriendo-por-alcobas-sabaneta.onrender.com/sitemap.xml

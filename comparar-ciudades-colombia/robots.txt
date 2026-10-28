@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-comparar-ciudades-colombia.onrender.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-venta-por-alcobas-bucaramanga.onrender.com/sitemap.xml
