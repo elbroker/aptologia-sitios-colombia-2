@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aptologia-venta-barrios-cartagena.onrender.com/sitemap.xml

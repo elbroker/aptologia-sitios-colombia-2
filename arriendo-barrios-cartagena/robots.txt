@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aptologia-arriendo-barrios-cartagena.onrender.com/sitemap.xml
